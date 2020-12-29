@@ -1,0 +1,16 @@
+font: 
+IBM 3270
+
++ Cousine 
+ 
+
+color: zielony: #009637ff
+
+808080ff
+
+
+alternatywne czcionki: 
+Roboto
+Courier New
+Monospace
+Ubuntu
